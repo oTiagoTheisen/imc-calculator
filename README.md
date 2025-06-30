@@ -1,60 +1,59 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# imc-calculator
-=======
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+📱 IMC Calculator - Aplicativo em React Native com Expo
+=======================================================
 
-## Get started
+Este é um projeto desenvolvido com [Expo](https://expo.dev) utilizando o pacote [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-1. Install dependencies
+⚙️ Comece Agora
+---------------
 
-   ```bash
-   npm install
-   ```
+1️⃣ Instale as dependências:
 
-2. Start the app
+```bash
+npm install
+```
 
-   ```bash
-   npx expo start
-   ```
+2️⃣ Inicie o projeto:
 
-In the output, you'll find options to open the app in a
+```bash
+npx expo start
+```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Você poderá visualizar o app em diferentes ambientes:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 📲 [Build de desenvolvimento](https://docs.expo.dev/develop/development-builds/introduction/)
+- 📱 [Emulador Android](https://docs.expo.dev/workflow/android-studio-emulator/)
+- 🍎 [Simulador iOS](https://docs.expo.dev/workflow/ios-simulator/)
+- 🌐 [Expo Go](https://expo.dev/go) – modo sandbox com recursos limitados
 
-## Get a fresh project
+🛠️ Estrutura do Projeto
+------------------------
 
-When you're ready, run:
+O projeto utiliza **roteamento baseado em arquivos** ([saiba mais](https://docs.expo.dev/router/introduction)) e todos os arquivos de desenvolvimento estão na pasta `app`.
+
+✨ Resetar Projeto (opcional)
+-----------------------------
+
+Para começar com um projeto em branco, execute:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Esse comando moverá o código de exemplo para a pasta `app-example` e criará uma nova pasta `app` vazia para o seu desenvolvimento.
 
-## Learn more
+📚 Recursos Úteis
+------------------
 
-To learn more about developing your project with Expo, look at the following resources:
+- 📘 [Documentação do Expo](https://docs.expo.dev/)
+- 🧑‍🏫 [Tutorial: Aprenda Expo passo a passo](https://docs.expo.dev/tutorial/introduction/)
+- 🧭 [Guias oficiais do Expo](https://docs.expo.dev/guides/)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🤝 Comunidade e Suporte
+------------------------
 
-## Join the community
+- 💬 [Comunidade no Discord](https://chat.expo.dev)
+- 💻 [Expo no GitHub](https://github.com/expo/expo)
 
-Join our community of developers creating universal apps.
+🚀 Vamos construir algo incrível juntos!
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> 15c3124 (Initial commit)
-=======
-#imc-calculator
->>>>>>> da91260 (Primeiro commit)
-
-.
